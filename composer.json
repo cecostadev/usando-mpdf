@@ -1,0 +1,16 @@
+{
+    "name": "cadu_/treinamento_pdf",
+    "description": "Geracao PDF com PHP",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Carlos Costa",
+            "email": "cecostadev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "mpdf/mpdf": "dev-master"
+    }
+}
